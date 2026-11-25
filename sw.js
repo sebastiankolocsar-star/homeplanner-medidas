@@ -1,5 +1,5 @@
 /* Homeplanner · Medidas — funciona sin internet */
-const VERSION = "hp-medidas-20261125203323";
+const VERSION = "hp-medidas-20261125213757";
 const PROPIOS = ["./", "index.html", "manifest.webmanifest", "icon-180.png", "icon-192.png"];
 const EXTERNOS = ["https://cdn.jsdelivr.net/npm/@fontsource/playfair-display@5.3.0/files/playfair-display-latin-400-normal.woff2", "https://cdn.jsdelivr.net/npm/@fontsource/playfair-display@5.3.0/files/playfair-display-latin-700-normal.woff2", "https://cdn.jsdelivr.net/npm/jspdf@2.5.2/dist/jspdf.umd.min.js", "https://cdn.jsdelivr.net/npm/@expo-google-fonts/playfair-display@0.4.2/400Regular/PlayfairDisplay_400Regular.ttf", "https://cdn.jsdelivr.net/npm/@expo-google-fonts/playfair-display@0.4.2/700Bold/PlayfairDisplay_700Bold.ttf"];
 self.addEventListener("install", e => {
